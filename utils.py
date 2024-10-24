@@ -103,8 +103,12 @@ def print_median_and_ci(samples, ci=[5, 95]):
     print(f"Median: {formatted_median} [{ci_range}% CI: {formatted_low}, {formatted_high}]")
 
 
-def negative_log_error(x):
-    return -np.log(1 - x)
+def negative_log_error(accuracy):
+    return -np.log(1 - accuracy)
+
+
+def accuracy_from_negative_log_error(nle):
+    return 1 - np.exp(-nle)
 
 
 def nle_column(df, col):
