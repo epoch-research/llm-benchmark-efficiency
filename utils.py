@@ -3,6 +3,9 @@ import pandas as pd
 from scipy import stats
 
 
+DEFAULT_RNG = np.random.default_rng(20241021)
+
+
 def datetime_to_float_year(datetimes):
     if isinstance(datetimes, pd.Series):
         date_floats = datetimes.dt.year + (datetimes.dt.month - 1) / 12 + (datetimes.dt.day - 1) / 365.242374
@@ -87,6 +90,32 @@ def normal_from_90_ci(p_5th, p_95th, num_samples):
     mu = p_5th - stats.norm.ppf(0.05) * sigma
     # Generate lognormal samples
     dist = np.random.normal(loc=mu, scale=sigma, size=num_samples)
+    return dist
+
+
+def lognorm_from_ci(p_low, p_high, ci, num_samples, rng=DEFAULT_RNG):
+    ci_low = 50 - ci / 2
+    ci_high = 50 + ci / 2
+    p_low_log = np.log(p_low)
+    p_high_log = np.log(p_high)
+    # Solve for mu and sigma
+    sigma = (p_high_log - p_low_log) / (stats.norm.ppf(ci_high/100) - stats.norm.ppf(ci_low/100))
+    mu = p_low_log - stats.norm.ppf(ci_low/100) * sigma
+    # Generate lognormal samples
+    dist = rng.lognormal(mean=mu, sigma=sigma, size=num_samples)
+    return dist
+
+
+def norm_from_ci(p_low, p_high, ci, num_samples, clip=None, rng=DEFAULT_RNG):
+    ci_low = 50 - ci / 2
+    ci_high = 50 + ci / 2
+    # Solve for mu and sigma
+    sigma = (p_high - p_low) / (stats.norm.ppf(ci_high/100) - stats.norm.ppf(ci_low/100))
+    mu = p_low - stats.norm.ppf(ci_low/100) * sigma
+    # Generate normal samples
+    dist = rng.normal(loc=mu, scale=sigma, size=num_samples)
+    if clip is not None:
+        dist = np.clip(dist, clip[0], clip[1])
     return dist
 
 
