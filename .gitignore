@@ -10,3 +10,7 @@ All ML Systems - full view - *.csv
 .ipynb_checkpoints/
 
 *.code-workspace
+
+*.pdf
+
+data_exploration.ipynb
