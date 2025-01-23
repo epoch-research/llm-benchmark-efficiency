@@ -1,0 +1,176 @@
+﻿Price description,Price,Price Unit,Model,Fine Tuned Model,Price date,Model Version,Organization (model developer),Organization (API vendor),Context Window,Archived price link,Tags,Notes,Last Modified
+$2.50 / 1M input tokens,$2.50000,$/1M input tokens,GPT-4o,,2024-08-12,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 9:13pm
+$10.00 / 1M output tokens,$10.00000,$/1M output tokens,GPT-4o,,2024-08-12,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 9:13pm
+$0.638 / 1k 512^2 px input images,$0.63800,$/1k 512^2 px input images,GPT-4o,,2024-08-12,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"High-resolution input images are priced as follows: 
+- 85 base tokens are used each time
+- For smaller images, the image is divided into 512x512 pixel tiles
+- For larger images, the image will be resized so that a maximum of 4 tiles will be used
+- 170 tokens are used per tile
+- The standard price per input token is used for the total number of tokens required (for this model, this is $2.5/million input tokens)
+Example: a 512x513 pixel input image:
+Tokens = 85 + 170*2
+",12/7/2024 9:13pm
+$1.275 / 1k 512^2 px input images,$1.27500,$/1k 512^2 px input images,GPT-4o,,2024-08-12,gpt-4o-2024-05-13,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"High-resolution input images are priced as follows: 
+- 85 base tokens are used each time
+- For smaller images, the image is divided into 512x512 pixel tiles
+- For larger images, the image will be resized so that a maximum of 4 tiles will be used
+- 170 tokens are used per tile
+- The standard price per input token is used for the total number of tokens required (for this model, this is $2.5/million input tokens)
+Example: a 512x513 pixel input image:
+Tokens = 85 + 170*2
+",12/7/2024 9:13pm
+$0.213 / 1k low resolution input images,$0.21300,$/1k low resolution input images,GPT-4o,,2024-08-12,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"Low-resolution images use 85 input tokens/image
+The price of tokens is $2.5 per million input tokens",12/7/2024 9:13pm
+$0.425 / 1k low resolution input images,$0.42500,$/1k low resolution input images,GPT-4o,,2024-08-12,gpt-4o-2024-05-13,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,Low-resolution images use 85 input tokens/image,12/7/2024 9:13pm
+$1.913 / 1k 1024^2 px input images,$1.91300,$/1k 1024^2 px input images,GPT-4o,,2024-08-12,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"1024x1024 images are scaled down
+
+High-resolution input images are priced as follows: 
+- 85 base tokens are used each time
+- For smaller images, the image is divided into 512x512 pixel tiles
+- For larger images, the image will be resized so that a maximum of 4 tiles will be used
+- 170 tokens are used per tile
+- The standard price per input token is used for the total number of tokens required (for this model, this is $2.5/million input tokens)
+Example: a 512x513 pixel input image:
+Tokens = 85 + 170*2
+",12/7/2024 9:13pm
+$5.00 / 1M input tokens ,$5.00000,$/1M input tokens,GPT-4o,,2024-08-12,gpt-4o-2024-05-13,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 9:13pm
+$15.00 / 1M output tokens,$15.00000,$/1M output tokens,GPT-4o,,2024-08-12,gpt-4o-2024-05-13,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 9:13pm
+$3.825 / 1k 1024^2 px input images,$3.82500,$/1k 1024^2 px input images,GPT-4o,,2024-08-12,gpt-4o-2024-05-13,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"1024x1024 images are scaled down
+
+High-resolution input images are priced as follows: 
+- 85 base tokens are used each time
+- For smaller images, the image is divided into 512x512 pixel tiles
+- For larger images, the image will be resized so that a maximum of 4 tiles will be used
+- 170 tokens are used per tile
+- The standard price per input token is used for the total number of tokens required
+Example: a 512x513 pixel input image:
+Tokens = 85 + 170*2
+",12/7/2024 9:13pm
+$0.15 / 1M input tokens,$0.15000,$/1M input tokens,GPT-4o mini,,2024-08-12,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/16/2024 2:26pm
+$0.60 / 1M output tokens,$0.60000,$/1M output tokens,GPT-4o mini,,2024-08-12,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/16/2024 2:29pm
+$3.825 / 1k 1024^2 px input images,$3.82500,$/1k 1024^2 px input images,GPT-4o mini,,2024-08-12,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"1024x1024 images are sized down
+4 512x512 tiles
+2833 base tokens
+5667 tokens/tile",8/16/2024 2:31pm
+$0.425 / 1k low resolution input images,$0.42500,$/1k low resolution input images,GPT-4o mini,,2024-08-12,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,Low-resolution images use 2833 input tokens/image,8/16/2024 2:32pm
+$1.275 / 1k 512^2 px input images,$1.27500,$/1k 512^2 px input images,GPT-4o mini,,2024-08-12,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,"1 512x512 tile
+2833 base tokens
+5667 tokens/tile",8/16/2024 2:34pm
+$15 / 1M input tokens,$15.00000,$/1M input tokens,Claude 3 Opus,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$75 / 1M output tokens,$75.00000,$/1M output tokens,Claude 3 Opus,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$0.25 / 1M input tokens,$0.25000,$/1M input tokens,Claude 3 Haiku,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$1.25 / 1M output tokens,$1.25000,$/1M output tokens,Claude 3 Haiku,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Claude 3.5 Sonnet,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,12/7/2024 6:47pm
+$15 / 1M output tokens,$15.00000,$/1M output tokens,Claude 3.5 Sonnet,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,12/7/2024 6:47pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Claude 3 Sonnet,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$15 / 1M output tokens,$15.00000,$/1M output tokens,Claude 3 Sonnet,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$8 / 1M input tokens,$8.00000,$/1M input tokens,Claude 2.1,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$24 / 1M output tokens,$24.00000,$/1M output tokens,Claude 2.1,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$0.8 / 1M input tokens,$0.80000,$/1M input tokens,Claude Instant,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$2.4 / 1M output tokens,$2.40000,$/1M output tokens,Claude Instant,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$8 / 1M input tokens,$8.00000,$/1M input tokens,Claude 2,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$24 / 1M output tokens,$24.00000,$/1M output tokens,Claude 2,,2024-08-12,,Anthropic,Anthropic,,https://archive.is/5C8WA,,,8/13/2024 1:37pm
+$3.5 / 1M input tokens (for <= 128k tokens),$3.50000,$/1M input tokens (for <=128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$1.25 / 1M input tokens (for <= 128k tokens),$1.25000,$/1M input tokens (for <=128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$7 / 1M input tokens (for > 128k tokens),$7.00000,$/1M input tokens (for > 128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$2.5 / 1M input tokens (for > 128k tokens),$2.50000,$/1M input tokens (for > 128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$10.5 / 1M output tokens (for <= 128k tokens),$10.50000,$/1M output tokens (for <= 128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$5 / 1M output tokens (for <= 128k tokens),$5.00000,$/1M output tokens (for <= 128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$21 / 1M output tokens (for > 128k tokens),$21.00000,$/1M output tokens (for > 128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$10 / 1M output tokens (for > 128k tokens),$10.00000,$/1M output tokens (for > 128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$0.875 / 1M cashed tokens (for <= 128k tokens),$0.87500,$/1M cashed tokens (for <= 128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$0.3125 / 1M cashed tokens (for <= 128k tokens),$0.31250,$/1M cashed tokens (for <= 128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$1.75 / 1M cashed tokens (for > 128k tokens),$1.75000,$/1M cashed tokens (for >128k tokens),Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$0.625 / 1M cashed tokens (for > 128k tokens),$0.62500,$/1M cashed tokens (for >128k tokens),Gemini 1.5 Pro,,2024-10-01,,Google DeepMind,Google,,https://web.archive.org/web/20240927124232/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$4.5 / 1M tokens per hour (cashed storage),$4.50000,$/1M cashed tokens per hour,Gemini 1.5 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/7/2024 7:19pm
+$0.075 / 1M input tokens (for <= 128k tokens),$0.07500,$/1M input tokens (for <=128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.0375 / 1M cashed tokens (for > 128k tokens),$0.03750,$/1M cashed tokens (for >128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$1 / 1M tokens per hour (cashed storage),$1.00000,$/1M cashed tokens per hour,Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.6 / 1M output tokens (for > 128k tokens),$0.60000,$/1M output tokens (for > 128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.01875 / 1M cashed tokens (for <= 128k tokens),$0.01875,$/1M cashed tokens (for <= 128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.3 / 1M output tokens (for <= 128k tokens),$0.30000,$/1M output tokens (for <= 128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.15 / 1M input tokens (for > 128k tokens),$0.15000,$/1M input tokens (for > 128k tokens),Gemini 1.5 Flash,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/30/2024 12:26pm
+$0.5 / 1M input tokens,$0.50000,$/1M input tokens,Gemini 1.0 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/2/2024 4:11pm
+$1.5 / 1M output tokens,$1.50000,$/1M output tokens,Gemini 1.0 Pro,,2024-08-12,,Google DeepMind,Google,,https://web.archive.org/web/20240812213720/https://ai.google.dev/pricing,,,12/2/2024 4:11pm
+$1.5 / 1M input tokens,$1.50000,$/1M input tokens,Cohere Command,,2024-08-13,,Cohere,Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 3:37pm
+$2 / 1M output tokens,$2.00000,$/1M output tokens,Cohere Command,,2024-08-13,,Cohere,Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 3:37pm
+$0.3 / 1M input tokens,$0.30000,$/1M input tokens,Cohere Command Light,,2024-08-13,,Cohere,Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 3:40pm
+$0.6 / 1M output tokens,$0.60000,$/1M output tokens,Cohere Command Light,,2024-08-13,,Cohere,Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 3:40pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Command R+,,2024-08-13,,"Cohere,Cohere for AI",Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 4:06pm
+$15 / 1M output tokens,$15.00000,$/1M output tokens,Command R+,,2024-08-13,,"Cohere,Cohere for AI",Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 4:06pm
+$0.5 / 1M input tokens,$0.50000,$/1M input tokens,"""Command R
+""",,2024-08-13,,"Cohere,Cohere for AI",Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 4:06pm
+$1.5 / 1M output tokens,$1.50000,$/1M output tokens,"""Command R
+""",,2024-08-13,,"Cohere,Cohere for AI",Amazon,,https://web.archive.org/web/20240813193532/https://aws.amazon.com/bedrock/pricing/,,,8/13/2024 4:07pm
+$0.020 / 1M tokens,$0.02000,$/1M embedding tokens,text-embedding-3-small,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+$0.130 / 1M tokens,$0.13000,$/1M embedding tokens,text-embedding-3-large,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+$0.100 / 1M tokens,$0.10000,$/1M embedding tokens,text-embedding-ada-002,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+"$0.30 / 1M input tokens, fine tuned model",$0.30000,$/1M input tokens,GPT-4o mini,checked,2024-08-13,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+"$1.20 / 1M output tokens, fine tuned model",$1.20000,$/1M output tokens,GPT-4o mini,checked,2024-08-13,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+$3.00 / 1M training tokens,$3.00000,$/1M training tokens,GPT-4o mini,checked,2024-08-13,gpt-4o-mini-2024-07-18,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+"$3 / 1M input tokens, fine tuned model",$3.00000,$/1M input tokens,GPT-3.5 Turbo,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 7:47pm
+"$6 / 1M output tokens, fine tuned model",$6.00000,$/1M output tokens,GPT-3.5 Turbo,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,12/7/2024 7:47pm
+$8 / 1M training tokens,$8.00000,$/1M training tokens,GPT-3.5 Turbo,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,12/7/2024 7:47pm
+"$12 / 1M input tokens, fine tuned model",$12.00000,$/1M input tokens,GPT-3 175B (davinci),checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+"$12 / 1M output tokens, fine tuned model",$12.00000,$/1M output tokens,GPT-3 175B (davinci),checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+$6 / 1M training tokens,$6.00000,$/1M training tokens,GPT-3 175B (davinci),checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+"$1.6 / 1M input tokens, fine tuned model",$1.60000,$/1M input tokens,babbage-002,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+"$1.6 / 1M output tokens, fine tuned model",$1.60000,$/1M output tokens,babbage-002,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,OpenAI: 50% off for batch submission,,8/18/2024 9:07pm
+$0.4 / 1M training tokens,$0.40000,$/1M training tokens,babbage-002,checked,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$40 / 1k 1024^2 px images generated,$40.00000,$/1k 1024^2 px images generated,DALL·E 3,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$80 / 1k 1024^2 px HD images generated,$80.00000,$/1k 1024^2 px images generated,DALL·E 3,,2024-08-13,DALL·E 3 HD,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$20 / 1k 1024^2 px images generated,$20.00000,$/1k 1024^2 px images generated,DALL·E 2,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$0.006 / minute,$0.00600,$/minute,Whisper v2,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$15.000 / 1M characters,$15.00000,$/1M characters,tts-1,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$30.000 / 1M characters,$30.00000,$/1M characters,tts-1-hd,,2024-08-13,,OpenAI,OpenAI,,https://web.archive.org/web/20240812003133/https://openai.com/api/pricing/,,,8/18/2024 9:07pm
+$35 / 1k 1024^2 px images generated,$35.00000,$/1k 1024^2 px images generated,Stable Diffusion 3,,2024-08-18,Stable Diffusion 3 Medium,Stability AI,Stability AI,,https://archive.is/fMVbg,,"""SD3 Medium - the 2 billion parameter model""
+Prices are technically in ""credits"". ""Credits are priced at $10 per 1,000 credits""",11/6/2024 5:14pm
+$65 / 1k 1024^2 px images generated,$65.00000,$/1k 1024^2 px images generated,Stable Diffusion 3,,2024-08-18,Stable Diffusion 3 Large,Stability AI,Stability AI,,https://archive.is/fMVbg,,"""SD3 Large - the 8 billion parameter model""
+Prices are technically in ""credits"". ""Credits are priced at $10 per 1,000 credits""",11/6/2024 5:14pm
+$40 / 1k 1024^2 px images generated,$40.00000,$/1k 1024^2 px images generated,Stable Diffusion 3,,2024-08-18,Stable Diffusion 3 Large Turbo,Stability AI,Stability AI,,https://archive.is/fMVbg,,"""SD3 Large Turbo - the 8 billion parameter model with a faster inference time""
+Prices are technically in ""credits"". ""Credits are priced at $10 per 1,000 credits""",11/6/2024 5:14pm
+$2 / 1k 1024^2 px images generated,$2.00000,$/1k 1024^2 px images generated,Stable Diffusion XL (SDXL),,2024-08-18,,Stability AI,Stability AI,,https://archive.is/fMVbg,,"Price is between $2 and $6, depending on settings
+
+Prices are technically in ""credits"". ""Credits are priced at $10 per 1,000 credits""",8/18/2024 10:22pm
+$2.7 / 1M input tokens,$2.70000,$/1M input tokens,Llama 3.1-405B,,2024-08-18,Llama-3.1-405B-Instruct,Meta AI,DeepInfra,,https://web.archive.org/web/20240819033247/https://deepinfra.com/meta-llama/Meta-Llama-3.1-405B-Instruct/api,,Same price for input and output tokens,8/19/2024 10:23am
+$2.7 / 1M output tokens,$2.70000,$/1M output tokens,Llama 3.1-405B,,2024-08-18,Llama-3.1-405B-Instruct,Meta AI,DeepInfra,,https://web.archive.org/web/20240819033247/https://deepinfra.com/meta-llama/Meta-Llama-3.1-405B-Instruct/api,,Same price for input and output tokens,8/19/2024 10:23am
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Llama 3.1-405B,,2024-08-18,,Meta AI,Fireworks AI,,https://web.archive.org/web/20240819035012/https://fireworks.ai/pricing,,Same price for input and output tokens,8/19/2024 10:23am
+$3 / 1M output tokens,$3.00000,$/1M output tokens,Llama 3.1-405B,,2024-08-18,,Meta AI,Fireworks AI,,https://web.archive.org/web/20240819035012/https://fireworks.ai/pricing,,Same price for input and output tokens,8/19/2024 10:23am
+$25 / 1M training tokens,$25.00000,$/1M training tokens,GPT-4o,checked,2024-09-04,gpt-4o-2024-08-06,OpenAI,OpenAI,,https://web.archive.org/web/20240904182855/https://openai.com/api/pricing/,,,12/7/2024 9:13pm
+$15 / 1M input tokens,$15.00000,$/1M input tokens,"o1-preview,o1",,2024-09-12,o1-preview-2024-09-12,"OpenAI,OpenAI",OpenAI,,https://web.archive.org/web/20240918032749/https://openai.com/api/pricing/,,You are also charged for hidden reasoning tokens,12/11/2024 4:26pm
+$60 / 1M output tokens,$60.00000,$/1M output tokens,"o1-preview,o1",,2024-09-12,o1-preview-2024-09-12,"OpenAI,OpenAI",OpenAI,,https://web.archive.org/web/20240918032749/https://openai.com/api/pricing/,,You are also charged for hidden reasoning tokens,12/11/2024 4:26pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,o1-mini,,2024-09-12,o1-mini-2024-09-12,OpenAI,OpenAI,,https://web.archive.org/web/20240918032749/https://openai.com/api/pricing/,,You are also charged for hidden reasoning tokens,9/30/2024 10:23am
+$12 / 1M input tokens copy,$12.00000,$/1M output tokens,o1-mini,,2024-09-12,o1-mini-2024-09-12,OpenAI,OpenAI,,https://web.archive.org/web/20240918032749/https://openai.com/api/pricing/,,You are also charged for hidden reasoning tokens,9/30/2024 10:23am
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Claude 3.5 Sonnet,,2024-09-10,,Anthropic,Google,,https://web.archive.org/web/20240910175012/https://cloud.google.com/vertex-ai/generative-ai/pricing,,,12/7/2024 6:47pm
+$0.25 / 1M input tokens,$0.25000,$/1M input tokens,Mistral 7B,,2024-09-14,,Mistral AI,Mistral AI,,https://web.archive.org/web/20240913082450/https://mistral.ai/technology/#pricing,,,9/14/2024 4:36pm
+$2.5 / 1M input tokens,$2.50000,$/1M input tokens,Command R+,,2024-09-13,,"Cohere,Cohere for AI",Cohere,,https://web.archive.org/web/20240913064105/https://cohere.com/pricing,,,9/14/2024 4:44pm
+$0.05 / 1M input tokens,$0.05000,$/1M input tokens,Llama 3-8B,,2024-09-01,Llama 3 8B 8k,Meta AI,Groq,,https://web.archive.org/web/20240901121211/https://groq.com/pricing/,,,9/14/2024 4:47pm
+$0.055 / 1M input tokens,$0.05500,$/1M input tokens,Llama 3.1-70B,,2024-08-24,Llama 3.1 8B Instruct,Meta AI,DeepInfra,,https://web.archive.org/web/20240824223324/https://deepinfra.com/pricing,,,9/14/2024 4:54pm
+$5 / 1M input tokens,$5.00000,$/1M input tokens,Llama 3.1-405B,,2024-08-24,Llama 3.1 405B Turbo,Meta AI,Together,,https://web.archive.org/web/20240826022208/https://www.together.ai/pricing,,,9/14/2024 5:07pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Llama 3.1-405B,,2024-09-05,,Meta AI,Fireworks AI,,https://web.archive.org/web/20240905145026/https://fireworks.ai/pricing,,,9/14/2024 5:09pm
+$2.8 / 1M input tokens,$2.80000,$/1M input tokens,Llama 3.1-405B,,2024-09-13,,Meta AI,Lepton AI,,https://web.archive.org/web/20240913223647/https://www.lepton.ai/pricing,,,9/14/2024 5:13pm
+$10 / month for Basic Plan,$10.00000,$/month,,,2024-09-09,,,Midjourney,,https://web.archive.org/web/20240909133016/https://docs.midjourney.com/docs/plans,,,9/14/2024 5:19pm
+$1 / 1M input tokens,$1.00000,$/1M input tokens,Llama 3.1-70B,,2024-09-14,Llama 3.1 70B Instruct,Meta AI,Perplexity,,https://web.archive.org/web/20240914135101/https://docs.perplexity.ai/guides/pricing,,,9/14/2024 5:26pm
+$0.60 / 1M input tokens,$0.60000,$/1M input tokens,Llama 3.1-70B,,2024-08-27,,Meta AI,Cerebras Systems,,https://web.archive.org/web/20240913152426/https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed,,,9/14/2024 5:39pm
+$0.65 / 1M input tokens,$0.65000,$/1M input tokens,Llama 3.1-70B,,2024-09-14,Llama 3.1 70B Instruct,Meta AI,Replicate,,https://archive.ph/xdfSH,,,9/14/2024 5:44pm
+$0.14 / 1M input tokens,$0.14000,$/1M input tokens,DeepSeek-Coder-V2 236B,,2024-09-11,,DeepSeek,DeepSeek,,https://web.archive.org/web/20240911172527/https://platform.deepseek.com/api-docs/pricing/,,,9/14/2024 5:48pm
+$2 / 1M input tokens,$2.00000,$/1M input tokens,Reka Core,,2024-09-14,,Reka AI,Reka AI,,https://web.archive.org/web/20240914215055/https://www.reka.ai/reka-deploy,,,9/14/2024 5:53pm
+$5 / 1M input tokens,$5.00000,$/1M input tokens,Llama 3.1-405B,,2024-08-22,,Meta AI,Databricks,,https://web.archive.org/web/20240822165110/https://www.databricks.com/product/pricing/foundation-model-serving,,,9/14/2024 6:00pm
+$3 / 1M input tokens,$3.00000,$/1M input tokens,Llama 3.1-405B,,2024-08-22,,Meta AI,OctoAI,,https://web.archive.org/web/20240822165104/https://octo.ai/docs/getting-started/pricing-and-billing,,,9/14/2024 6:05pm
+$2 / 1M input tokens,$2.00000,$/1M input tokens,Jamba,,2024-09-12,Jamba 1.5 Large,AI21 Labs,AI21 Labs,,https://web.archive.org/web/20240912201526/https://www.ai21.com/pricing,,,9/14/2024 6:07pm
+$0.5 / 1M input tokens,$0.50000,$/1M input tokens,Cygnet,checked,2024-07-17,Cygnet,Gray Swan,,16000,https://web.archive.org/web/20240717201908/https://www.grayswan.ai/product/cygnet,,Instruct version has a 4k context window.,9/17/2024 5:02pm
+$1.5 / 1M output tokens,$1.50000,$/1M output tokens,Cygnet,checked,2024-07-17,Cygnet,Gray Swan,,16000,https://web.archive.org/web/20240717201908/https://www.grayswan.ai/product/cygnet,,Instruct version has 4k context window,9/17/2024 5:03pm
+$35 / 1k 1024^2 px images generated,$35.00000,$/1k 1024^2 px images generated,Stable Diffusion 3 Medium,,2024-11-06,Stable Diffusion 3 Medium,Stability AI,,,,,"""Flat rate of 3.5 credits per successful generation.""
+1 credit = $0.01",11/6/2024 5:22pm
+$1 MTok input,$1.00000,$/1M input tokens,,,2024-11-04,,,,,https://web.archive.org/web/20241203025152/https://www.anthropic.com/news/3-5-models-and-computer-use,,,12/16/2024 10:54am
+$5 MTok output,$5.00000,$/1M output tokens,,,2024-11-04,,,,,https://web.archive.org/web/20241203025152/https://www.anthropic.com/news/3-5-models-and-computer-use,,,12/16/2024 10:54am
+$0.0005 /1K input tokens,$0.50000,$/1M input tokens,,,2024-01-25,,,,,https://web.archive.org/web/20240509040603/https://openai.com/index/new-embedding-models-and-api-updates/,,,12/16/2024 10:43am
+$0.0015 /1K output tokens,$1.50000,$/1M output tokens,,,2024-01-25,,,,,https://web.archive.org/web/20240509040603/https://openai.com/index/new-embedding-models-and-api-updates/,,,12/16/2024 10:43am
+$0.001 /1K input tokens,$1.00000,$/1M input tokens,,,2023-11-06,,,,,https://web.archive.org/web/20240510045512/https://openai.com/index/new-models-and-developer-products-announced-at-devday/,,,12/16/2024 10:44am
+$0.002 /1K output tokens,$2.00000,$/1M output tokens,,,2023-11-06,,,,,https://web.archive.org/web/20240510045512/https://openai.com/index/new-models-and-developer-products-announced-at-devday/,,,12/16/2024 10:44am
+$0.01 /1k input tokens,$10.00000,$/1M input tokens,GPT-4 Turbo,,2023-11-06,,OpenAI,,,https://web.archive.org/web/20240510045512/https://openai.com/index/new-models-and-developer-products-announced-at-devday/,,,12/7/2024 9:10pm
+$0.03 /1k output tokens,$30.00000,$/1M output tokens,GPT-4 Turbo,,2023-11-06,,OpenAI,,,https://web.archive.org/web/20240510045512/https://openai.com/index/new-models-and-developer-products-announced-at-devday/,,,12/7/2024 9:11pm
+$0.04 / M tokens (input),$0.04000,$/1M input tokens,Ministral 3B,,2024-10-16,,Mistral AI,,,https://web.archive.org/web/20241118160246/https://mistral.ai/news/ministraux/,,,12/7/2024 9:57pm
+$0.04 / M tokens (output),$0.04000,$/1M output tokens,Ministral 3B,,2024-10-16,,Mistral AI,,,https://web.archive.org/web/20241118160246/https://mistral.ai/news/ministraux/,,,12/7/2024 9:58pm
+$0.1 / M tokens (input),$0.10000,$/1M input tokens,Ministral 8B,,2024-10-16,,Mistral AI,,,https://web.archive.org/web/20241118160246/https://mistral.ai/news/ministraux/,,,12/7/2024 9:58pm
+$0.1 / M tokens (output),$0.10000,$/1M output tokens,Ministral 8B,,2024-10-16,,Mistral AI,,,https://web.archive.org/web/20241118160246/https://mistral.ai/news/ministraux/,,,12/7/2024 9:58pm
