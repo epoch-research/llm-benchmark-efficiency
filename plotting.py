@@ -44,10 +44,15 @@ def set_default_fig_layout(fig, xtickvals, xticktext, ytickvals, yticktext):
     return fig
 
 
-def save_plot(fig, folder, filename, extensions=['png', 'svg', 'pdf'], scale=2):
-    for ext in extensions:
-        fig.write_image(folder + filename + '.' + ext, scale=scale)
-    fig.write_html(folder + filename + '.html')
+def save_plot(fig, folder, filename, extensions=['png', 'svg', 'pdf', 'html'], scale=2):
+    if 'png' in extensions:
+        fig.write_image(folder + filename + '.png', scale=scale)
+    if 'svg' in extensions:
+        fig.write_image(folder + filename + '.svg', scale=scale)
+    if 'pdf' in extensions:
+        fig.write_image(folder + filename + '.pdf', scale=scale)
+    if 'html' in extensions:
+        fig.write_html(folder + filename + '.html')
 
 
 ###############################################################################
