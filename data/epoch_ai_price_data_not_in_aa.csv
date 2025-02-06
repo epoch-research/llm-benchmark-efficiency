@@ -1,0 +1,25 @@
+Model Name,Release Date,USD per 1M Tokens
+Claude 2,2024-08-12,12.0
+Claude 2.1,2024-08-12,12.0
+Claude 3 Haiku,2024-08-12,0.5
+Claude 3 Opus,2024-08-12,30.0
+Claude 3 Sonnet,2024-08-12,6.0
+Claude 3.5 Sonnet,2024-08-12,6.0
+Claude Instant,2024-08-12,1.2000000000000002
+Cohere Command,2024-08-13,1.625
+Cohere Command Light,2024-08-13,0.375
+Command R,2024-08-13,0.75
+Command R+,2024-08-13,6.0
+DeepSeek-R1,2025-01-20,0.96
+DeepSeek-V3,2024-12-26,0.47750000000000004
+GPT-3.5 Turbo,2023-06-13,3.25
+GPT-3.5 Turbo,2023-11-06,1.25
+GPT-3.5 Turbo,2024-01-25,0.75
+Gemini 1.0 Pro,2024-08-12,0.75
+Llama 2-70B,2023-12-01,0.7625
+Llama 3.1-405B,2024-08-18,2.85
+o1,2024-12-17,26.25
+o1-mini,2024-09-12,5.25
+o1-mini,2025-01-31,1.9250000000000003
+o1-preview,2024-09-12,26.25
+o3-mini,2025-01-31,1.9250000000000003
