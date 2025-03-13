@@ -1,16 +1,14 @@
 __pycache__/
 
-*results*/
+results/**/*.png
+results/**/*.svg
+results/**/*.html
+results/**/*.pdf
 
 .DS_Store
-
-notes.md
-All ML Systems - full view - *.csv
 
 .ipynb_checkpoints/
 
 *.code-workspace
 
 *.pdf
-
-data_exploration.ipynb

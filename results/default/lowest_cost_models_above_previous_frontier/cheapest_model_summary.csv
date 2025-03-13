@@ -1,0 +1,3 @@
+bench,performance_range,cost_reduction_factor_per_year_geomean,cost_reduction_factor_per_year_range
+GPQA Diamond,"[[33.0, 100], [50.0, 100], [53.0, 100], [56.0, 100]]",134,"[42, 731]"
+MATH 5,"[[36.0, 100], [48.0, 100]]",232,"[113, 477]"

@@ -1,0 +1,7 @@
+bench,threshold_model,performance_range,sample_size,start_date,end_date,cost_reduction_factor_per_year,cost_reduction_factor_per_year_90_ci,r_squared
+GPQA Diamond,GPT-4-0314,"[33.0, 100]",5,2023-03-14,2024-05-10,61,"[1, 4422]",0.63
+GPQA Diamond,GPT-4 Turbo,"[50.0, 100]",6,2023-11-06,2024-12-13,42,"[4, 486]",0.73
+GPQA Diamond,GPT-4o-2024-05,"[53.0, 100]",4,2024-05-13,2024-12-13,731,"[14, 37062]",0.92
+GPQA Diamond,Claude-3.5-Sonnet-2024-06,"[56.0, 100]",4,2024-06-20,2025-02-05,172,"[35, 856]",0.98
+MATH 5,GPT-4 Turbo,"[36.0, 100]",6,2023-11-06,2024-12-13,113,"[11, 1223]",0.82
+MATH 5,GPT-4o-2024-05,"[48.0, 100]",4,2024-05-13,2024-12-13,477,"[0, 1745055]",0.71
